@@ -1,2 +1,2 @@
 # ergomina
-A handwired split keyboard with 40 keys
+A handwired split 65% keyboard using the RP2040
